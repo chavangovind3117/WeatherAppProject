@@ -115,6 +115,7 @@ function getLocation() {
     }
     else {
         //HW - show an alert for no gelolocation support available
+        alert("No Gelolocation support available..!");
     }
 }
 
